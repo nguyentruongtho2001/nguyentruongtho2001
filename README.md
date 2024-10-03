@@ -1,6 +1,6 @@
 ## Hey, I'm Tho
 🔭 I’m currently working on Web Development Projects <br>
-🌱 I’m currently learning Java Script<br>
+🌱 I’m currently learning JavaScript<br>
 👯 I’m looking to collaborate on Web Development Projects<br>
 💬 Ask me about Technology and Web-Development<br>
 📫 How to reach me: nguyentruongtho.dev@gmail.com<br>
