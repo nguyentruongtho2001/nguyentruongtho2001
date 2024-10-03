@@ -5,6 +5,14 @@
 💬 Ask me about Technology and Web-Development<br>
 📫 How to reach me: nguyentruongtho.dev@gmail.com<br>
 😄 Pronouns: He/Him<br>
+## About Me
+Hello GitHub!
+
+I am Nguyễn Trường Thọ, a graduate with a software engineering degree from Hutech University, Ho Chi Minh City, and currently working as a WordPress Developer at AI Zone.
+
+In the past, I gained programming experience in software projects that provided enterprise management solutions such as ERP and DMS. Currently, I work for a company specializing in Aygency, where I have been learning about SEO while simultaneously developing service websites using WordPress/Elementor and Laravel. I believe in the power of self-learning. My love for programming, logical reasoning abilities, and deep passion for technology have fueled my enthusiasm for coding.
+
+I have learned the fundamentals of C++, Java, C# programming languages, Data Structures and Algorithms, Front-End Web Development, MySQL, Docker, and several other tools. I am continuously driven to expand my knowledge and accumulate experience that I can apply in my career.
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/th%E1%BB%8D-nguy%E1%BB%85n-143261302/) 
 
