@@ -3,7 +3,7 @@
 🌱 I’m currently learning Java Script<br>
 👯 I’m looking to collaborate on Web Development Projects<br>
 💬 Ask me about Technology and Web-Development<br>
-📫 How to reach me: shivamkr985@gmail.com<br>
+📫 How to reach me: nguyentruongtho.dev@gmail.com<br>
 😄 Pronouns: He/Him<br>
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/th%E1%BB%8D-nguy%E1%BB%85n-143261302/) 
