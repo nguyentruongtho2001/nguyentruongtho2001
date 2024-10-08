@@ -8,7 +8,7 @@
 ## About Me
 Hello GitHub!
 
-I am Nguyễn Trường Thọ, a graduate with a software engineering degree from Hutech University, Ho Chi Minh City, and currently working as a WordPress Developer at AI Zone.
+I am Nguyễn Trường Thọ, a graduate with a software engineering degree from Hutech University, Ho Chi Minh City.
 
 In the past, I gained programming experience in software projects that provided enterprise management solutions such as ERP and DMS. Currently, I work for a company specializing in Aygency, where I have been learning about SEO while simultaneously developing service websites using WordPress/Elementor and Laravel. I believe in the power of self-learning. My love for programming, logical reasoning abilities, and deep passion for technology have fueled my enthusiasm for coding.
 
